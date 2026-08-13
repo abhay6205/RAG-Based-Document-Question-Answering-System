@@ -1,0 +1,15 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# built index (regenerate with ingest.py - no need to commit these binaries)
+index/
+
+# os
+.DS_Store
