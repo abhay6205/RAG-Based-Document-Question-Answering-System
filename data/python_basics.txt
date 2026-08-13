@@ -1,0 +1,5 @@
+A Python list is an ordered, mutable collection that can hold items of mixed types. Lists are created with square brackets, like my_list = [1, "two", 3.0], and support indexing, slicing, and methods such as append, insert, remove, and sort.
+
+Lists are implemented internally as dynamic arrays, so accessing an item by index is fast, roughly constant time, while inserting at the beginning of a large list is slower because every following element has to shift. Appending to the end is fast on average because Python over-allocates space.
+
+Python also offers tuples, which are like lists but immutable, and are often used for fixed collections of values, such as coordinates. Dictionaries, meanwhile, store key-value pairs and provide fast lookup by key rather than by position.

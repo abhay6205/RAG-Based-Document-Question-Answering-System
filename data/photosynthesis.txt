@@ -1,0 +1,5 @@
+Photosynthesis is the process plants use to convert light energy into chemical energy. It takes place mainly in the chloroplasts of plant cells, using a pigment called chlorophyll that absorbs light most strongly in the red and blue wavelengths and reflects green, which is why most plants appear green.
+
+The overall reaction combines carbon dioxide from the air with water absorbed by the roots, using sunlight as energy, to produce glucose and release oxygen as a byproduct. This reaction happens in two stages: the light-dependent reactions, which occur in the thylakoid membrane and produce ATP and NADPH, and the Calvin cycle, which occurs in the stroma and uses that ATP and NADPH to fix carbon dioxide into glucose.
+
+Photosynthesis is the foundation of most food chains on Earth, since it is the primary way solar energy enters biological systems. It's also responsible for producing the oxygen that most life on Earth depends on to breathe.

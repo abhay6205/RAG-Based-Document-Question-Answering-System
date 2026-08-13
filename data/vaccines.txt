@@ -1,0 +1,5 @@
+Vaccines work by training the immune system to recognize a specific pathogen without causing the actual disease. This is usually done by introducing a harmless piece of the pathogen, such as a protein fragment, a weakened or inactivated form of the virus, or genetic instructions like mRNA that cause cells to temporarily produce a viral protein.
+
+The immune system responds to this exposure by producing antibodies and generating memory B cells and T cells that "remember" the pathogen's signature. If the person is later exposed to the real pathogen, these memory cells allow the immune system to respond much faster and more effectively, often preventing illness entirely or significantly reducing its severity.
+
+Some vaccines require multiple doses, or booster shots, because immune memory can weaken over time, or because the first dose alone doesn't generate a strong enough response, particularly in young children.
